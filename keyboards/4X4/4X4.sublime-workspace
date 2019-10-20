@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mcp23008.c",
+			"settings":
+			{
+				"buffer_size": 4637,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		]
+	],
+	"build_varint": "Clean",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4"
+	],
+	"file_history":
+	[
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/build.sh",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/matrix.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/rules.mk",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/keymaps/default/keymap.c",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/ble_practice60.c",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/ble_practice60.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/4X4.h",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/rules.mk",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/config.h",
+		"/Users/igor/Downloads/com.tothezeroth.timer_1.13_source_from_JADX/sources/com/robobunny/SeekBarPreference.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/1EE9BFEE-A114-42CD-92E4-32A45AE92557/motherboard.txt",
+		"/Users/igor/Downloads/com.tothezeroth.timer_1.13/smali/android/support/v13/app/FragmentTabHost.smali",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2A2CA0E4-82DB-4C73-98DA-F48D250DA5C1/drawables.xml",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/4866157F-BBDE-4FB1-8405-E272F057A982/classes.dex",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/30796C9B-95C3-4491-BBA4-11CEDCDA6C1D/PistolTimerApp.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/C1396F65-E635-4113-9AA4-882555815C16/HelpActivity.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/71363CF2-6BE2-407D-BA84-2A54EBE05C30/C0130R.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/7F007F45-B680-47CF-B1DE-1A79135AFD4F/4X4_default.hex",
+		"/Projects/keyboard/qmk_firmware/quantum/matrix.c",
+		"/Projects/keyboard/qmk_firmware/keyboards/4X4/4X4.h",
+		"/Projects/keyboard/qmk_firmware/keyboards/4X4/rules.mk",
+		"/Projects/keyboard/qmk_firmware/keyboards/4X4/config.h",
+		"/Projects/keyboard/qmk_firmware_prev/keyboards/1upkeyboards/sweet16/config.h",
+		"/Projects/keyboard/qmk_firmware/keyboards/4X4/4X4.c",
+		"/Projects/keyboard/qmk_firmware/keyboards/amj40/config.h",
+		"/Projects/keyboard/qmk_firmware/keyboards/amj40/amj40.h",
+		"/Projects/keyboard/qmk_firmware/keyboards/amj40/info.json",
+		"/Projects/keyboard/qmk_firmware/keyboards/amj40/rules.mk",
+		"/Projects/keyboard/qmk_firmware/keyboards/amj40/amj40.c",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/77C83169-C36D-457A-86FC-B08CE601FB11/kb.h",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/5EAE79D9-8E54-481B-A31A-13F3F88ADA33/kb.c",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/1EBDA224-C72D-4427-A128-2DD9013BA941/config.h",
+		"/Projects/arduino/o-target-trainer/cmake-build-debug/CMakeFiles/Makefile2",
+		"/Users/igor/Documents/Arduino/libraries/TimerOne/library.json",
+		"/Projects/arduino/o-target-trainer/src/IRremote/IRremote.h",
+		"/Projects/arduino/o-target-trainer/src/IRremote/library.properties",
+		"/Users/igor/Documents/Arduino/libraries/Button/library.properties",
+		"/Users/igor/Downloads/IR_One_LED/IR_One_LED.ino",
+		"/Projects/arduino/RT.10/lib/Button-master/library.properties",
+		"/Users/igor/Documents/Arduino/libraries/Button/examples/basic_usage/basic_usage.ino",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/420086EF-E289-4BC1-A873-AC080A2EA9F2/README.txt",
+		"/Users/igor/Desktop/Innsbruck2019",
+		"/Users/igor/Documents/custom kbd",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/40136D8A-D8D9-49E3-8BA4-F656E24D8FF0/SequenzScript.sh",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2DA8B963-2798-43C3-9E8E-2932076F28F7/ReadLabelStrings.sh",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/A7D4B8A2-D346-4160-A57F-B21F3ABE78EF/test.py",
+		"/Projects/PCU/comm/send.py",
+		"/Users/igor/Desktop/cpm-1",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/F37BF120-0D4F-4FA4-B6C9-CE02C981D4CC/send.py",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/EA425549-3A6D-4423-86AF-A992567EAEE8/PSU.py",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/55C4C751-A48A-4C39-8D00-02087A27390D/test.py",
+		"/Users/igor/Documents/Keyboard to USB/UT89srLXWRXXXagOFbX8.jpg",
+		"/Users/igor/Desktop/sketch_may30b/sketch_may30b.ino.with_bootloader.feather32u4.hex",
+		"/Users/igor/Desktop/sketch_may30b/sketch_may30b.ino.feather32u4.hex",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2E1BE4CF-83A9-4E75-B210-24B3D6111965/IMG_20190413_114004.jpg",
+		"/Users/igor/Downloads/DD G18/DD/ddconf_G18_0.3.2_MLP/ddconf_G18_0.3.2_MLP/dd_configuration_milli.txt",
+		"/Users/igor/Downloads/method-draw-image.svg",
+		"/Users/igor/Downloads/MAX_TOP_PRINT_104_6.25X_COLOR_KEY_TEMPLATE/104_6.25X_TOP_PRINT_COLOR_KEY_TEMPLATE.svg",
+		"/Users/igor/Documents/Австрия/Квартира/wifi.txt",
+		"/Volumes/UNTITLED/speed.fast.ini",
+		"/Volumes/UNTITLED/speed.slow.ini",
+		"/Users/igor/Desktop/highspeed",
+		"/Users/igor/Downloads/1/DaoUtils.java",
+		"/Projects/arduino/RT.10/interface.module/src/GlobalConstants.h",
+		"/Volumes/UNTITLED/rpm.ini",
+		"/Users/igor/Downloads/004С9902I5K.ZRA",
+		"/Users/igor/Downloads/f_get_cnt_day.sql",
+		"/Users/igor/Desktop/fssppo-411",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/1624CD19-93F3-4492-8143-55F465514F06/ext.js",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/D8C35AD2-91A4-4B4E-B71E-A0B2A82F320A/ssh",
+		"/Users/igor/Desktop/op.sql",
+		"/Projects/php/presnya/code_m/protected/controllers/SiteController.php",
+		"/Projects/php/yasndom/code_m/protected/controllers/SiteController.php",
+		"/Projects/php/yasndom/code_m/db/data.json",
+		"/Projects/php/yasndom/code_m/protected/models/Mailer.php",
+		"/Projects/php/presnya/code_d/assets/js/common.js",
+		"/Projects/php/yasndom/code_d/assets/js/data.json",
+		"/Projects/php/yasndom/code_d/assets/pages/mrbase.phtml",
+		"/Projects/php/yasndom/code_d/assets/pages/favorites.phtml",
+		"/Projects/php/yasndom/code_d/config.php",
+		"/Projects/php/yasndom/code_d/assets/php/pdf.php",
+		"/Projects/php/presnya/code_d/assets/php/pdf.php",
+		"/Projects/php/yasndom/code_d/.htaccess",
+		"/Projects/ibs/fss/server/glassfish4/glassfish/domains/wozm/config/domain.xml",
+		"/Users/igor/Downloads/Филиал №3 ГУ-РО ФСС РФ по РТ (ПРЯМЫЕ ВЫПЛАТЫ).msg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#1/Microsoft_Office_2016_VL_Serializer.pkg",
+		"/Projects/php/ecovidnoe/code/.htaccess",
+		"/Projects/php/ecovidnoe/code/index.php",
+		"/Users/igor/Desktop/php",
+		"/Library/WebServer/Documents/ecovidnoe/config.php",
+		"/Projects/php/ecovidnoe/ecovidnoe/version.php",
+		"/Projects/php/ecovidnoe/ecovidnoe/config.php",
+		"/Users/igor/Desktop/Dimoco documents",
+		"/Users/igor/Desktop/notes.json",
+		"/Users/igor/Desktop/темы на повтор",
+		"/Projects/ibs/fss/context/18-Н-ПУВ-1020/ln_list",
+		"/Projects/ibs/fss/context/18-Н-ПУВ-1020/params",
+		"/Projects/ibs/fss/context/18-Н-ПУВ-1020/query.sql",
+		"/Projects/cpp/hdtimer/mac/timer_library.c",
+		"/Projects/java/elevator/src/main/java/ru/i2dev/elevator/Elevator.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#3/191333199067Error---Too-Stupid.png",
+		"/Projects/ibs/access/list.txt",
+		"/Projects/ibs/fss/server/glassfish4/glassfish/config/asenv.conf",
+		"/Users/igor/tmp/crack/README.txt",
+		"/Users/igor/.clion/README.txt",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#0/3.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#1/9HOZY.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#4/list.txt",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift2/#1/jsp.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mcp23008.c",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/ShellScript/ShellScript.sublime-build",
+	"project": "4X4.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
