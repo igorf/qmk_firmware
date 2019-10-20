@@ -58,6 +58,11 @@ OPT_DEFS += -DBOOTLOADER_SIZE=4096
 #KEY_LOCK_ENABLE ?= undefined
 #BLUETOOTH_ENABLE ?= AdafruitBLE  # Enable Bluetooth with the Adafruit EZ-Key HID
 
+SRC = matrix.c mcp23008.c twimaster.c
+
+# Enable options
+CUSTOM_MATRIX = yes     # We have a custom matrix
+
 BOOTMAGIC_ENABLE ?= no  # Virtual DIP switch configuration(+1000)
 MOUSEKEY_ENABLE  ?= no  # Mouse keys(+4700)
 EXTRAKEY_ENABLE  ?= yes # Audio control and System control(+450)

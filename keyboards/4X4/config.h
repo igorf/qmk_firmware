@@ -7,16 +7,16 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    dztech
+#define MANUFACTURER    i2dev
 #define PRODUCT         4X4
-#define DESCRIPTION     Keyboard
+#define DESCRIPTION     4x4 Keyboard tester
 
 /* key matrix size */
 #define MATRIX_ROWS 4
 #define MATRIX_COLS 4
 
 /* key matrix pins */
-#define MATRIX_ROW_PINS { F0, F1, F4, F5 }
+#define MATRIX_ROW_PINS { D3, F0, F6, F7 }
 #define MATRIX_COL_PINS { D1, D0, C6, D7 }
 #define UNUSED_PINS
 

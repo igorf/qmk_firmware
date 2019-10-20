@@ -15,4 +15,9 @@
 	{ K30,   K31,   K32,   K33 }  \
 }
 
+bool mcp23008_init(unsigned char i2cAddress);
+bool mcp23008_make_ready(unsigned char i2cAddress);
+uint8_t mcp23008_read(unsigned char i2cAddress);
+bool mcp23008_enable_interrupts(unsigned char i2cAddress);
+
 #endif
