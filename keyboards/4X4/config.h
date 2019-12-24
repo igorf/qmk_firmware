@@ -12,16 +12,17 @@
 #define DESCRIPTION     4x4 Keyboard tester
 
 /* key matrix size */
-#define MATRIX_ROWS 4
-#define MATRIX_COLS 4
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 14
 
 /* key matrix pins */
-#define MATRIX_ROW_PINS { D3, F0, F6, F7 }
+#define MATRIX_ROW_PINS { F7, F6, F5, F4, F1 }
 #define MATRIX_COL_PINS { D1, D0, C6, D7 }
 #define UNUSED_PINS
 
 /* COL2ROW or ROW2COL */
-#define DIODE_DIRECTION COL2ROW
+//#define DIODE_DIRECTION COL2ROW
+#define DIODE_DIRECTION ROW2COL
 
 /* number of backlight levels */
 

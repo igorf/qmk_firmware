@@ -5,17 +5,6 @@
 		[
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "mcp23008.c",
-			"settings":
-			{
-				"buffer_size": 4637,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "Packages/Makefile/Make.sublime-build",
 	"build_system_choices":
 	[
@@ -36,7 +25,7 @@
 			]
 		]
 	],
-	"build_varint": "Clean",
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
@@ -66,10 +55,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4"
-	],
 	"file_history":
 	[
 		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/build.sh",
@@ -212,45 +197,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "mcp23008.c",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4637,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -291,7 +237,6 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "Packages/ShellScript/ShellScript.sublime-build",
-	"project": "4X4.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -324,7 +269,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},

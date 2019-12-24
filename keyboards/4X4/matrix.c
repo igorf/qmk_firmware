@@ -46,7 +46,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // row4: A4 - PF1
 // col0-7: mcp23008 address 0x27 
 // col8-14: mcp23008 address 0x20
-static const uint8_t row_pins[MATRIX_ROWS] = {F7, F6, F5, F4}; //ADD F1 row!
+static const uint8_t row_pins[MATRIX_ROWS] = {F7, F6, F5, F4, F1}; //ADD F1 row!
 #if DEBOUNCING_DELAY > 0
 static bool debouncing;
 static matrix_row_t matrix_debouncing[MATRIX_ROWS];
