@@ -9,7 +9,7 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    i2dev
 #define PRODUCT         4X4
-#define DESCRIPTION     4x4 Keyboard tester
+#define DESCRIPTION     4x4 Keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
