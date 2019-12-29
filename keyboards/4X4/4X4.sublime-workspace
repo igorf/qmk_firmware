@@ -57,6 +57,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/cube/Desktop/kbd todo",
 		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/build.sh",
 		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/matrix.c",
 		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/rules.mk",
@@ -169,13 +170,14 @@
 	],
 	"find":
 	{
-		"height": 37.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
-		"height": 95.0,
+		"height": 102.0,
 		"where_history":
 		[
+			"C:\\projects\\qmk_firmware\\keyboards\\4X4"
 		]
 	},
 	"find_state":
@@ -183,6 +185,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"BACKLIGHT_PIN",
+			"10",
+			"DEBOUNCING_DELAY",
+			"matrix_debouncing",
+			"adafruit_ble_set_mode_leds",
+			"ENABLE_BLE_MODE_LEDS"
 		],
 		"highlight": true,
 		"in_selection": false,
