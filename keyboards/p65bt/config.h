@@ -9,7 +9,7 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    i2dev
 #define PRODUCT         p65bt
-#define DESCRIPTION     Practice 65 Keyboard
+#define DESCRIPTION     Practice 65 modified keyboard
 
 /* key matrix size */
 #define MATRIX_ROWS 5
@@ -26,9 +26,12 @@
 
 /* number of backlight levels */
 
-#ifdef BACKLIGHT_PIN
-#define BACKLIGHT_LEVELS 3
-#endif
+//#ifdef BACKLIGHT_PIN
+//#define BACKLIGHT_LEVELS 3
+//#endif
+#define BACKLIGHT_LEVELS 6
+//#define BACKLIGHT_BREATHING
+#define BREATHING_PERIOD 6
 
 /* Set 0 if debouncing isn't needed */
 /* Default debounce is 5 */
@@ -40,12 +43,9 @@
 
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
-
-
-
 #define RGBLIGHT_ANIMATIONS
 
-#define RGBLED_NUM 0
+#define RGBLED_NUM 20
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
