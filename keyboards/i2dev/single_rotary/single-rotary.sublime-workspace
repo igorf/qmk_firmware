@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"expander_config"
+			],
+			[
+				"curre",
+				"current_matrix"
+			],
+			[
+				"se",
+				"sendDataToExternalServer"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"ll"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/matrix.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/single_rotary.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/twimaster.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/i2cmaster.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/rules.mk",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary/build.sh",
+		"/Users/igor/Library/Application Support/Sublime Text 3/Packages/User/build.sh.sublime-build",
+		"/Users/igor/Projects/keyboard/rotary-single/qmk_firmware/keyboards/i2dev/singlerotary/config.h",
+		"/Users/igor/Projects/arduino/rotary/rotary.ino",
+		"/Users/igor/Projects/arduino/rotaryBluetooth/rotaryBluetooth.ino",
+		"/Users/igor/Documents/Arduino/libraries/HID-Project/src/HID-APIs/ConsumerAPI.h",
+		"/Users/igor/Projects/arduino/rotary-hid/hidkeyboard.ino",
+		"/Users/igor/Projects/arduino/rotary-hid/BluefruitConfig.h",
+		"/Users/igor/.arduinoIDE/settings.json",
+		"/Volumes/ESD-USB/autorun.inf",
+		"/Users/igor/Documents/Горшунов Адрес",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/keymaps/default/keymap.c",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/E64AE88E-F6B2-4C4E-A063-15EDB1F195AE/IMG_20201103_230322.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/73621014-D18F-4FEB-BDD8-DD4B0CDF875B/IMG_20201104_142517.jpg",
+		"/Users/igor/Downloads/w3ex1var1.sql",
+		"/Users/igor/Downloads/dump-world-202011082028 (1).sql",
+		"/Users/igor/Downloads/dump-world-202011082028.sql",
+		"/Users/igor/Downloads/w3e1var3.sql",
+		"/Users/igor/Downloads/Database backup.dump",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/6B4A0873-FDA9-491E-878C-AD2857F49ED4/IMG_20201103_230322.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/FBF0E751-85F5-4AA1-BE1D-0D82E5C892DD/keymap.c",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/E2187787-0746-431D-B853-6DB023286309/config.h",
+		"/Users/igor/Documents/Клавиатуры/nona63/qmk.txt",
+		"/Users/igor/Projects/cpp/test/src/test.c",
+		"/Users/igor/Projects/keyboard/via/keyboards/src/xd/XD60v2.json",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/xd60.h",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/rev2/config.h",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/keymaps/via/keymap.c",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/xd60.c",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/keymaps/via/rules.mk",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/xd60/keymaps/via/readme.md",
+		"/Users/igor/Projects/julia/html-course/task-cv/cv.html",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/nona63/rules.mk",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/NoNa63/keymaps/default/keymap.c",
+		"/Users/igor/Downloads/qmk_firmware/keyboards/kb/config.h",
+		"/Users/igor/Downloads/attachments/e1d06d0d-fbe2-4382-97b9-767957f12df6.xml",
+		"/Users/igor/Desktop/Распайка",
+		"/Users/igor/Downloads/jdk1.8.0_251/demo/javafx_samples/src/Ensemble8/src/samples/java/ensemble/samples/charts/line/stock/StockLineChartApp.java",
+		"/Users/igor/Projects/shooting-hold-visualizer/arduino/adafruit feather version/bleuart_axel_send.ino",
+		"/Users/igor/Projects/java/java-bt/build.gradle",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/23FD9E9B-111E-45F7-AC1D-21F0E9032541/repo",
+		"/Users/igor/Projects/html/appinsite.morda/package.json",
+		"/Users/igor/Projects/opencv/image-transform/src/ImageTransform.groovy",
+		"/Users/igor/Projects/opencv/image-transform/build.gradle",
+		"/Users/igor/Projects/opencv/image-compare/src/ImageCompare.groovy",
+		"/Users/igor/Projects/groovy/amplifier/src/personal/shooting/timer/Amplifier.groovy",
+		"/Users/igor/Projects/groovy/j2s/src/MainFrame.groovy",
+		"/Users/igor/Projects/groovy/imgmover/src/main/groovy/ru/i2dev/imgmover/Moover.groovy",
+		"/Users/igor/Projects/groovy/imgmover/src/main/groovy/ru/i2dev/imgmover/Main.groovy",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/mcp23017.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/i2cmaster.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/twimaster.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/rules.mk",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/mcp23008.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/p65bt.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/p65bt.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/mcp23017.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/MCP23017.cpp",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/p65bt/matrix.c",
+		"/Users/igor/Documents/Стрельба/Тренировки/2020.04.07.txt",
+		"/Users/igor/Desktop/TODO",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/keymaps/default/keymap.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/mcp23008.c",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/build.sh",
+		"/Users/igor/Projects/sonakai/login/data.txt",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/4X4.c",
+		"/Users/igor/Documents/Sonakai/puzzle3",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/50572076-23AC-4D7C-AAA6-FC9D5EDC8318/IMG_20190819_194921.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/3150DE4B-1640-46A0-848E-96236497E4DE/DSC00188.JPG",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/C9DEC21A-4CEF-4F81-A1E6-53F136237180/b0e31a17-c5e0-471c-b575-6437014973a7_IMG_20190331_102410.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/4AA74E30-33CA-43CD-86FA-D2B7ED4A4EF5/v1.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/9919BD42-AD87-4224-853C-09682D0A3F3B/Face2face_intermediate_workbook0055.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/867CE3FC-0D75-4472-9346-BD643BFB3158/IMG_20191121_190505.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/BC34808C-6F5F-42F5-8E74-1548E1F0E2B9/IMG_20190209_191925.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/BD20069F-CBD9-410C-A15C-E0D8297067F4/IMG_20190204_190001.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/BF0AB998-886D-4D7E-827C-7122BAA2C1CA/IMG_20190110_111523.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/74DCE8DF-E336-489C-81DD-05AED67B5430/2017-05-05.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/5C29211E-D5C1-43FD-8EEC-1A5689B88483/IMG_5728.MOV",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2ADCBDFD-161B-40FE-9B3B-AD34E3DF37B4/метаданные.json",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/01E2DD11-A913-47CB-B7A4-360B8A18C6E3/IMG_20190413_121808.jpg.json",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/CF294CA9-D5B2-4AB4-9BEF-53D766D572BD/DSC00188.JPG",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/B82B1BB4-4317-4C8F-BE07-B8E9744BC2D9/2017-10-11.png",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/78314E82-3FEC-4413-BCCA-E0789D530812/2019-02-20.png",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/CC90EB41-CA44-4A81-A9ED-DAB13215BDD0/IMG_20190112_105228.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/39BF9348-88E0-4C43-B1D4-356613C809D2/IMG_11-11-2011_142159.jpg",
+		"/Users/igor/Projects/chrome/quizlet-to-playlist/jquery.min.js",
+		"/Users/igor/Projects/chrome/quizlet-to-playlist/inject.js",
+		"/Users/igor/Projects/chrome/quizlet-to-playlist/manifest.json",
+		"/Users/igor/Projects/chrome/quizlet-to-playlist/content.js",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/keymaps/default/keymap.c.new",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/config.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/rules.mk",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/FDEEC01E-6D04-445C-B1FA-E301900C978C/5a51ff16-87fe-46fa-9091-e4a52610483c.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/BCF863E9-CBF5-49DD-B641-F279238CC81A/f6378431-16bc-4a3e-b65b-1a2a09a1c8e1.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2D88B457-E246-4B1A-8DB0-82673242AB08/3ba175e5-58cf-49a1-8689-ec1492e361af.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/90449E9B-568D-4226-A5D6-9BF84DE383FF/0c547323-fc63-4bf8-85fb-e591a16d3ca5.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/CF76E38E-7056-400E-BECD-84CFD727ACD4/567fc05a-b342-42eb-ae28-b71661bf77d6.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/D9DD3AAA-619C-4BF3-BC14-93470C942DC9/eae4d5e4-13a8-4ee9-8c7a-05c2ea6f91f7.jpg",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/3C71159A-3AD3-47F5-8889-3EB6B3AB2906/ed819a96-f798-4578-a77a-a522e6b3a7d2.jpg",
+		"/Users/igor/Projects/chrome/quizlet-to-playlist.crx",
+		"/Users/igor/Downloads/test.m3u",
+		"/Users/igor/Downloads/studygerman.m3u",
+		"/Users/igor/Projects/mozilla/quiz2m3u/manifest.json",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/520D79A6-9DCD-490A-B609-F6213B6A28E9/window.js",
+		"/Users/igor/Documents/Немецкий/YouSspeak/schritte 1/tests/1/result",
+		"/Users/igor/Downloads/alps64.json",
+		"/Users/igor/Downloads/Chris-keyboard/brownie.json",
+		"/Users/igor/Projects/java/TarsosDSP/src/examples/be/tarsos/dsp/example/SoundDetector.java",
+		"/Users/igor/Projects/groovy/shooting-timer/run/mac/timer.log",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/matrix.c",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/keymaps/default/keymap.c",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/ble_practice60.c",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/ble_practice60.h",
+		"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/4X4/4X4.h",
+		"/Users/igor/Projects/keyboard/practice_60/qmk_firmware/keyboards/handwired/ble_practice60/rules.mk",
+		"/Users/igor/Downloads/com.tothezeroth.timer_1.13_source_from_JADX/sources/com/robobunny/SeekBarPreference.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/1EE9BFEE-A114-42CD-92E4-32A45AE92557/motherboard.txt",
+		"/Users/igor/Downloads/com.tothezeroth.timer_1.13/smali/android/support/v13/app/FragmentTabHost.smali",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/2A2CA0E4-82DB-4C73-98DA-F48D250DA5C1/drawables.xml",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/4866157F-BBDE-4FB1-8405-E272F057A982/classes.dex",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/30796C9B-95C3-4491-BBA4-11CEDCDA6C1D/PistolTimerApp.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/C1396F65-E635-4113-9AA4-882555815C16/HelpActivity.java",
+		"/Users/igor/Library/Caches/com.binarynights.ForkLift-3/FileCache/71363CF2-6BE2-407D-BA84-2A54EBE05C30/C0130R.java"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Users/igor/Projects/keyboard/star-wars-keyboard/keyboards/i2dev/single_rotary"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MATRIX_SCAN_",
+			"matrix_scan_kb",
+			"read_cols_on_row",
+			"keyboard_setup",
+			"SRC",
+			"matrix_scan",
+			"matrix_is_on",
+			"matrix_scan_user",
+			"row_pins"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/build.sh.sublime-build",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
